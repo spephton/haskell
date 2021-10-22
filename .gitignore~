@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 .DS_Store
+=======
 dist
 dist-*
 cabal-dev
@@ -22,3 +24,4 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+>>>>>>> Initial commit
