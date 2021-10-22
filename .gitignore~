@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 .DS_Store
 =======
+>>>>>>> 8be0c9c163a32b4a624b772277d32930a2d27615
 dist
 dist-*
 cabal-dev
@@ -24,4 +25,7 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
->>>>>>> Initial commit
+<<<<<<< HEAD
+*~
+=======
+>>>>>>> 8be0c9c163a32b4a624b772277d32930a2d27615
